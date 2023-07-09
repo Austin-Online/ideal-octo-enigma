@@ -1,0 +1,24 @@
+{
+  "name": "ideal-octo-enigma",
+  "version": "1.0.0",
+  "description": "Module 10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austin-Online/ideal-octo-enigma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Austin-Online/ideal-octo-enigma/issues"
+  },
+  "homepage": "https://github.com/Austin-Online/ideal-octo-enigma#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^24.9.0"
+  }
+}
